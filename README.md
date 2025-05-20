@@ -39,5 +39,5 @@ python PerceptronClassifier.py iris_sep.csv
 # You will be prompted to enter a test set percentage (e.g., 0.2)
 ```
 
-### Authors
+## Authors
 The implementation was done by Suheil Khourieh.
